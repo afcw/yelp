@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		8111016D7CAA47DA937EB80A /* libPods.a in Frameworks */ = {isa = PBXBuildFile; fileRef = A52CC4DA65AF464A95ED597E /* libPods.a */; };
-		D516C47F19E39CD000E2AF53 /* TableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D516C47E19E39CD000E2AF53 /* TableViewController.swift */; };
 		D59D0B4219E06DB300E112B6 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D59D0B4119E06DB300E112B6 /* AppDelegate.swift */; };
 		D59D0B4719E06DB300E112B6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D59D0B4519E06DB300E112B6 /* Main.storyboard */; };
 		D59D0B4919E06DB300E112B6 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D59D0B4819E06DB300E112B6 /* Images.xcassets */; };
@@ -36,7 +35,6 @@
 /* Begin PBXFileReference section */
 		2C7C8A8B06994C31BC2314A1 /* Pods.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.xcconfig; path = Pods/Pods.xcconfig; sourceTree = "<group>"; };
 		A52CC4DA65AF464A95ED597E /* libPods.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libPods.a; sourceTree = BUILT_PRODUCTS_DIR; };
-		D516C47E19E39CD000E2AF53 /* TableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TableViewController.swift; sourceTree = "<group>"; };
 		D59D0B3C19E06DB300E112B6 /* fresh_yelp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = fresh_yelp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D59D0B4019E06DB300E112B6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D59D0B4119E06DB300E112B6 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -110,14 +108,13 @@
 				D59D0B6519E0726900E112B6 /* API */,
 				D59D0B4119E06DB300E112B6 /* AppDelegate.swift */,
 				D59D0B6119E071D300E112B6 /* BusinessViewController.swift */,
-				D5BA5F0C19E09C3800D729A8 /* businessCell.swift */,
-				D59D0B4519E06DB300E112B6 /* Main.storyboard */,
-				D59D0B4819E06DB300E112B6 /* Images.xcassets */,
-				D59D0B4A19E06DB300E112B6 /* LaunchScreen.xib */,
-				D59D0B3F19E06DB300E112B6 /* Supporting Files */,
-				D59D0B6819E072C800E112B6 /* fresh_yelp-Bridging-Header.h */,
 				D59DFE9F19E38C60009CAEB6 /* FiltersViewController.swift */,
-				D516C47E19E39CD000E2AF53 /* TableViewController.swift */,
+				D5BA5F0C19E09C3800D729A8 /* businessCell.swift */,
+				D59D0B6819E072C800E112B6 /* fresh_yelp-Bridging-Header.h */,
+				D59D0B4519E06DB300E112B6 /* Main.storyboard */,
+				D59D0B4A19E06DB300E112B6 /* LaunchScreen.xib */,
+				D59D0B4819E06DB300E112B6 /* Images.xcassets */,
+				D59D0B3F19E06DB300E112B6 /* Supporting Files */,
 			);
 			path = fresh_yelp;
 			sourceTree = "<group>";
@@ -307,7 +304,6 @@
 				D59D0B6219E071D300E112B6 /* BusinessViewController.swift in Sources */,
 				D59DFE9C19E371A4009CAEB6 /* UserLocation.swift in Sources */,
 				D59DFEA019E38C60009CAEB6 /* FiltersViewController.swift in Sources */,
-				D516C47F19E39CD000E2AF53 /* TableViewController.swift in Sources */,
 				D59D0B4219E06DB300E112B6 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

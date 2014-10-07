@@ -12,7 +12,7 @@
 	<dict>
 		<key>123C2FF8E7219325B081EDABDDB0491D44466B4D</key>
 		<string>https://github.com/afcw/yelp.git</string>
-		<key>292A54BD48F876FB9079D67C704BDEA6403E6687</key>
+		<key>248E463F820C81E6BA212E25CA82812934517F26</key>
 		<string>https://github.com/afcw/Yelp.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
@@ -21,7 +21,7 @@
 	<dict>
 		<key>123C2FF8E7219325B081EDABDDB0491D44466B4D</key>
 		<string>..</string>
-		<key>292A54BD48F876FB9079D67C704BDEA6403E6687</key>
+		<key>248E463F820C81E6BA212E25CA82812934517F26</key>
 		<string>../../Yelp</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
@@ -44,7 +44,7 @@
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>292A54BD48F876FB9079D67C704BDEA6403E6687</string>
+			<string>248E463F820C81E6BA212E25CA82812934517F26</string>
 			<key>IDESourceControlWCCName</key>
 			<string>Yelp</string>
 		</dict>

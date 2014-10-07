@@ -3,7 +3,6 @@
 //  fresh_yelpTests
 //
 //  Created by Wanda Cheung on 10/4/14.
-//  Copyright (c) 2014 Wanda Cheung. All rights reserved.
 //
 
 import UIKit
